@@ -14,7 +14,7 @@ Basic web project that shows how to use HTML and CSS to create beautiful and sim
 ## How to use
 1. Clone this repo.
 ```bash
-git clone https://github.com/MarlonDevs/HappyBirthdayCard
+git clone https://github.com/MarlonDevs/HappyBirthdayCard.git
 ```
 2. Open the `index.html` file in your web browser.
 3. Edit the text inside the `<p>` tags to customize the message.
